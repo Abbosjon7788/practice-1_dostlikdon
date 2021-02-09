@@ -1,0 +1,9 @@
+.image-response{
+    object-fit: cover;
+}
+.h-200{
+    height: 200px;
+}
+.w-200{
+    width: 200px;
+}
